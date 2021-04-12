@@ -7,7 +7,7 @@ define("senha", "masterkey");
 define("bd", "MegaOS");
 
 try {
-    $dsn="postgres:host=".host.";dbname=".bd;
+    $dsn="connection_pg:host=".host.";dbname=".bd;
     $conexao = new PDO($dsn, nome,senha);
     $conexao->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
 

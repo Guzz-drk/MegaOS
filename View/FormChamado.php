@@ -9,17 +9,24 @@
 </head>
 <body>
  <object data="../menu.php" width="100%"></object>
-
-<div name="div-form-chamado" class="container">
-<select id="appearance-select">   <option>Selecione</option>   <option>Primeira opção</option>   <option>Segunda opção</option>   <option>Terceira opção</option>   <option>Quarta opção</option></select>
+<h1>Cadastro de ordem de serviço</h1>
+<div name="div-form-chamado" class="container"> <br>
 <input type="text" placeholder="Nome de usuário:"> <br> <br>
-<input type="text" placeholder="Tipo de equipamento:">
+<input type="text" placeholder="Tipo de equipamento:"> <br> <br>
+<input type="text" placeholder="Marca do Equipamento:"> <br> <br>
+<input type="text" placeholder="Modelo do Equipamento:"> <br> <br>
+<input type="text" placeholder="Cor do Equipamento:">    <br> <br> <br> <br>
+<label for="viciopercebido">--------------------------vicio percebido:-------------------------</label>
+<textarea name="vicio percebido" id="" cols="50" rows="10"></textarea> <br> <br> 
+<input type="button" value="cadastrar Ordem de Serviço">
+
 
 
 
 
 
 </div>
+<br><br><br> <span></span>
     
 </body>
 </html>
