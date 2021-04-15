@@ -1,0 +1,44 @@
+input[type=text] {
+    left: center;
+    top: auto;
+}
+
+
+
+input {
+    position: relative;
+    border: none;
+    border-bottom: 2px solid rgb(30, 177, 10);
+    width:99%;
+    text-align: center;
+    
+  }
+
+
+.container {
+    position: absolute;
+    border: rgb(30, 177, 10);
+    border-style: solid;
+    width:30%;
+    height: 80%;
+    left: 35%;
+}
+textarea {
+    position: relative;
+    border: 2px solid rgb(30, 177, 10);
+    width:98%;
+    text-align: center;
+ 
+
+}
+h1 {
+    align-items: center;
+    text-align: center;
+    font-size: 500%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: rgb(19, 94, 0);
+}
+
+body {
+    background-color:white;
+}
