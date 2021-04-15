@@ -22,8 +22,7 @@
     <h1>Cadastro de ordem de serviço</h1>
     <div name="div-form-chamado" class="container"> <br>
         <label for="nome" class="texto">Nome do Usuário</label><br>
-        <select class="js-example-basic-multiple" name="states[]" multiple="multiple">
-            <option value="3620194" selected="selected">select2/select2</option>
+        <select class="js-example-basic-multiple" name="states[]" multiple="multiple" value="usuario">
             <option value="pedrinho">pedrinho</option>
             <option value="carlinhos">carlinhos</option>
             <option value="Patricio">Patricio</option>
