@@ -1,0 +1,20 @@
+Esse Projeto é da disciplina de desenvolvimento web UPF-CASCA.
+
+Descrição Projeto: Com o objetivo de organizar e manter atualizada a lista de equipamentos que 
+estão para conserto, a empresa X contratou dois estudantes na área de desenvolvimento de software para criar um 
+simples gerenciador de ordem de serviço. 
+
+Escopo Geral: O sistema deverá conter uma página inicial de login com restrição de acesso, para usuários administradores e usuários finais,
+O Usuário administrador por sua vez cria a ordem de serviço, o cadastro de usuários finais, cadastra as vendas dos chamados, gerencia o 
+relatorio final da ordem de serviço. O sistema por sua vez deverá automaticamente criar um código para identificação do equipamento a ser reparado,
+o usuário final por sua vez tem acesso ao sistema somente para visualização dos chamados abertos interessados somente a ele, podendo a partir dai 
+aceitar ou rejeitar o relatorio com o orçamento para reparo de seu equipamento. 
+
+Escopo a ser desenvolvido: Página de Login, Página inicial do sistema, Página de criação de ordem de serviço, 
+Página de criação de usuários, Página de inserção de produtos, Página contendo todas as ordens de serviços,
+Página contendo todos os usuários ativos, Página dashboard com relatorios semanais detalhando em gráfico o fechamento de ordens diárias.
+
+
+CRUDs :  Usuário, Produto, Relatorio
+CRUD Complexa: Ordem de Serviço/ Relatorio
+Página principal = index
