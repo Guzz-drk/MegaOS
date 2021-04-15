@@ -3,6 +3,7 @@ input[type=text] {
     top: auto;
 }
 
+<<<<<<< HEAD
 #nome {
     left: center;
     top: auto;
@@ -10,6 +11,9 @@ input[type=text] {
     border: none;
     text-align: center;
 }
+=======
+
+>>>>>>> 2e6dae0fbf8154be73d928211694c65bc7f4785e
 
 input {
     position: relative;
@@ -47,9 +51,13 @@ h1 {
 
 body {
     background-color:white;
+<<<<<<< HEAD
 }
 
 label{
     position: relative;
     left: 40%;
 }
+=======
+}
+>>>>>>> 2e6dae0fbf8154be73d928211694c65bc7f4785e

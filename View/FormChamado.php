@@ -1,11 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
+<<<<<<< HEAD
 
+=======
+>>>>>>> 2e6dae0fbf8154be73d928211694c65bc7f4785e
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!--inclusão css-->
+<<<<<<< HEAD
 
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
@@ -36,12 +40,29 @@
         <label for="viciopercebido">vicio percebido:</label>
         <textarea name="vicio percebido" id="" cols="50" rows="10"></textarea> <br> <br>
         <input type="button" value="cadastrar Ordem de Serviço">
+=======
+    <link rel="stylesheet" href="/resources/CSS/formchamado.css">
+</head>
+<body>
+ <object data="../menu.php" width="100%"></object>
+<h1>Cadastro de ordem de serviço</h1>
+<div name="div-form-chamado" class="container"> <br>
+<input type="text" placeholder="Nome de usuário:"> <br> <br>
+<input type="text" placeholder="Tipo de equipamento:"> <br> <br>
+<input type="text" placeholder="Marca do Equipamento:"> <br> <br>
+<input type="text" placeholder="Modelo do Equipamento:"> <br> <br>
+<input type="text" placeholder="Cor do Equipamento:">    <br> <br> <br> <br>
+<label for="viciopercebido">--------------------------vicio percebido:-------------------------</label>
+<textarea name="vicio percebido" id="" cols="50" rows="10"></textarea> <br> <br> 
+<input type="button" value="cadastrar Ordem de Serviço">
+>>>>>>> 2e6dae0fbf8154be73d928211694c65bc7f4785e
 
 
 
 
 
 
+<<<<<<< HEAD
     </div>
     <br><br><br> <span></span>
 
@@ -52,4 +73,10 @@
     });
 </script>
 
+=======
+</div>
+<br><br><br> <span></span>
+    
+</body>
+>>>>>>> 2e6dae0fbf8154be73d928211694c65bc7f4785e
 </html>
