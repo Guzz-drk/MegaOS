@@ -3,7 +3,13 @@ input[type=text] {
     top: auto;
 }
 
-
+#nome {
+    left: center;
+    top: auto;
+    width:99%;
+    border: none;
+    text-align: center;
+}
 
 input {
     position: relative;
@@ -41,4 +47,13 @@ h1 {
 
 body {
     background-color:white;
+}
+
+label{
+    position: relative;
+    left: 40%;
+}
+select{
+    position: relative;
+    width: 100%;
 }
